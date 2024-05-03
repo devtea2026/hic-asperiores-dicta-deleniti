@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/hic-asperiores-dicta-deleniti",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -487,5 +487,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/hic-asperiores-dicta-deleniti/issues"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.2.1"
 }
